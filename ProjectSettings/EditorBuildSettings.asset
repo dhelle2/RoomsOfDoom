@@ -134,4 +134,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/RoomsOfDoomLevels/Gen2/Lv2.15.unity
     guid: ce390973d13753445abe358bd712d49f
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen3/Lvl.3.unity
+    guid: 78f7d09766f1ac14eb990b1619d485c8
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen3/Lvl.4.unity
+    guid: cc1ce1ba39da6a74794d14eab6a23365
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen3/Lvl35.unity
+    guid: 72e23e24ab7da0a46a972fe81720595c
+  - enabled: 1
+    path: Assets/RoomsOfDoomLevels/Gen3/lvl3.6.unity
+    guid: 055d56c936f850246992f79e37e2861e
   m_configObjects: {}
